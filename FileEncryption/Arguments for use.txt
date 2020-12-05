@@ -1,0 +1,6 @@
+[enc or dec] [key] [file to encrypt or decrypt, usually working directory] [file to save enc or txt, working dirctory or own path]
+
+Example:
+enc o0A5A7mRhzhoWayuli0rPQ== plaintext.txt C:\Users\zayne\IdeaProjects\FileEncryption\plaintext.enc
+
+dec o0A5A7mRhzhoWayuli0rPQ== plaintext.enc C:\Users\zayne\IdeaProjects\FileEncryption\plaintext.txt
